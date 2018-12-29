@@ -1,0 +1,23 @@
+{
+  "name": "victoryconnect-blackbox",
+  "version": "1.0.0",
+  "description": "A simple blackbox logger that takes all packets and stores them. - Written in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoryforphil/VictoryConnect-Blackbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victoryforphil/VictoryConnect-Blackbox/issues"
+  },
+  "homepage": "https://github.com/victoryforphil/VictoryConnect-Blackbox#readme",
+  "dependencies": {
+    "jsonfile": "^5.0.0",
+    "vicconnect-client": "0.0.3"
+  }
+}
